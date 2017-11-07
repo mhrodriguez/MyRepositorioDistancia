@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi repositorio de C&oacute;mputo M&oacute;vil
 
 You can use the [editor on GitHub](https://github.com/mhrodriguez/MyRepositorioDistancia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
